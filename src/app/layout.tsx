@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Lama Dev School Management Dashboard",
-  description: "Next.js School Management System",
+  title: "MSU-ROTC UNIT",
+  description: "Mindanao State University Reserve Officer Training Corps",
 };
 
 export default function RootLayout({
